@@ -1,0 +1,8 @@
+D:\Google Drive\Code\CSharp\BinaryTrees\BinaryTrees\bin\Debug\BinaryTrees.exe.config
+S:\Development\Projects\BinaryTrees\BinaryTrees\bin\Debug\BinaryTrees.exe.config
+S:\Development\Projects\BinaryTrees\BinaryTrees\bin\Debug\BinaryTrees.exe
+S:\Development\Projects\BinaryTrees\BinaryTrees\bin\Debug\BinaryTrees.pdb
+S:\Development\Projects\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.csprojAssemblyReference.cache
+S:\Development\Projects\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.csproj.CoreCompileInputs.cache
+S:\Development\Projects\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.exe
+S:\Development\Projects\BinaryTrees\BinaryTrees\obj\Debug\BinaryTrees.pdb
